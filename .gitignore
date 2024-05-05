@@ -2,6 +2,7 @@
 archive/
 data/
 plots/
+RGB_visualisation/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
